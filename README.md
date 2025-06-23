@@ -21,21 +21,21 @@ Libraries: Pandas, Scikit-learn, Requests, Pickle
 
 API Used: JioSaavn (unofficial)
 
-#  Sample
-Sample selected song: Chamma Chammma
+# 📸 Sample
 
+🎧 Selected Song: Chamma Chamma
 <a href="https://github.com/Sathwikagummella/Music-Recommendation-App/blob/main/MRS.pdf">View</a>
 
-Recommended tracks:
+🎼 Recommended Songs:
 
-Dilbar
+💃 Dilbar
 
-Humne Pee Rakhi Hai
+🍷 Humne Pee Rakhi Hai
 
-Badri Ki Dulhania
+👰 Badri Ki Dulhania
 
-Bhangra Ta Sajda
+🥁 Bhangra Ta Sajda
 
-Gali Gali
+🌆 Gali Gali
 
 
