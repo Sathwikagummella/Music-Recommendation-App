@@ -1,7 +1,7 @@
-#🎶 Music Recommendation System
+# 🎶 Music Recommendation System
 A streamlit-based web app that recommends similar songs based on a user-selected track. This project aims to help users explore and discover new music in a fun and interactive way.
 
-##💡 Features
+## 💡 Features
 
 🎵 Song Recommendation: Get 5 song suggestions based on your favorite track.
 
@@ -11,7 +11,7 @@ A streamlit-based web app that recommends similar songs based on a user-selected
 
 ⚡ Fast Results: Optimized with precomputed similarity matrices for quick recommendations.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: Streamlit
 
@@ -21,7 +21,7 @@ Libraries: Pandas, Scikit-learn, Requests, Pickle
 
 API Used: JioSaavn (unofficial)
 
+<a href="https://github.com/Sathwikagummella/Music-Recommendation-App/blob/main/MRS.pdf">View</a>
 
 
 
-https://github.com/Sathwikagummella/Music-Recommendation-App/blob/main/MRS.pdf
