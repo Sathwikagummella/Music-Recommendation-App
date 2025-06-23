@@ -21,7 +21,21 @@ Libraries: Pandas, Scikit-learn, Requests, Pickle
 
 API Used: JioSaavn (unofficial)
 
+#  Sample
+Sample selected song: Chamma Chammma
+
 <a href="https://github.com/Sathwikagummella/Music-Recommendation-App/blob/main/MRS.pdf">View</a>
 
+Recommended tracks:
+
+Dilbar
+
+Humne Pee Rakhi Hai
+
+Badri Ki Dulhania
+
+Bhangra Ta Sajda
+
+Gali Gali
 
 
