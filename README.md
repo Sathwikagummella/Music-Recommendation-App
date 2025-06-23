@@ -11,7 +11,7 @@ A streamlit-based web app that recommends similar songs based on a user-selected
 
 ⚡ Fast Results: Optimized with precomputed similarity matrices for quick recommendations.
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: Streamlit
 
@@ -21,7 +21,7 @@ Libraries: Pandas, Scikit-learn, Requests, Pickle
 
 API Used: JioSaavn (unofficial)
 
-# 📸 Sample
+## 📸 Sample
 
 🎧 Selected Song: Chamma Chamma
 <a href="https://github.com/Sathwikagummella/Music-Recommendation-App/blob/main/MRS.pdf">View</a>
@@ -32,10 +32,10 @@ API Used: JioSaavn (unofficial)
 
 🍷 Humne Pee Rakhi Hai
 
-🌆 Gali Gali
+👰 Badri Ki Dulhania
 
-# ✅ Final Conclusion
-<a href="http://localhost:8501/#music-recommendation-system">view</a>
+
+## ✅ Final Conclusion
 
 The Music Recommendation System offers an engaging way to discover songs that match your taste. By combining machine learning with a user-friendly Streamlit interface, it provides quick and intelligent recommendations enhanced with real-time album artwork. Whether you're building a playlist or exploring new tracks, this app is a fun and functional music companion.
 
