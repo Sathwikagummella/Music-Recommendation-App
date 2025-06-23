@@ -32,10 +32,10 @@ API Used: JioSaavn (unofficial)
 
 🍷 Humne Pee Rakhi Hai
 
-👰 Badri Ki Dulhania
-
-🥁 Bhangra Ta Sajda
-
 🌆 Gali Gali
+
+# ✅ Final Conclusion
+
+The Music Recommendation System offers an engaging way to discover songs that match your taste. By combining machine learning with a user-friendly Streamlit interface, it provides quick and intelligent recommendations enhanced with real-time album artwork. Whether you're building a playlist or exploring new tracks, this app is a fun and functional music companion.
 
 
