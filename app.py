@@ -19,11 +19,11 @@ def fetch_poster(music_title):
                 return result['image'][2]['url']
 
         # Fallback if no valid image found
-        return "https://via.placeholder.com/500"  # placeholder fallback image
+        return "https://via.placeholder.com/500"  
 
     except (KeyError, IndexError, TypeError, ValueError) as e:
         print(f"Error fetching poster for {music_title}: {e}")
-        return "https://via.placeholder.com/500"  # fallback image
+        return "https://via.placeholder.com/500"  
 
 
 def recommend(musics):
